@@ -23,7 +23,7 @@ A mixed-effects regression model found no significant interaction between task t
 ## Visualization
 The box plot below illustrates reaction times across tasks and conditions:
 
-
+https://github.com/EmanAhmadKanaaneh/R-8th-week-hw/blob/main/Rplot%20stroop.png
 ![Reaction Times by Task and Congruency](reaction_times_plot.png)
 
 ## How to Run
